@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=nice%202%20meet%20u-nl-Welcome%202%20JongSoo's%20GitHub!&fontSize=90)
+####Hi There
 
 <!--
 **JongSoo0919/JongSoo0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
