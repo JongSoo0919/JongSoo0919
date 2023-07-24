@@ -7,7 +7,9 @@ Welcome to My GiuHub! 😄
 - HTML, CSS, JavaScript
 
 ### Back-end
-- Java, Spring, Springboot
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=sprinbootg&logoColor=white)
 
 ### Database
 - MongoDB, MySQL
