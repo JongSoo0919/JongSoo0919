@@ -15,6 +15,9 @@ Welcome to My GiuHub! 😄
 ### Etc
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Trello-0052cc?style=flat&logo=Trello&logoColor=white"/>
 
+## BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=easysprjs12)](https://solved.ac/easysprjs12)<br/>
+
 ## 🌟 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongSoo0919&show_icons=true&theme=radical)
