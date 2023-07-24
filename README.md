@@ -1,16 +1,33 @@
-#### Hi There😄
+# Hi, I'm [Kim JongSoo](https://github.com/JongSoo0919) 👋
+Welcome to My GiuHub! 😄
 
-<!--
-**JongSoo0919/JongSoo0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+### Front-end
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-end
+- Java, Spring, Springboot
+
+### Database
+- MongoDB, MySQL
+
+### Tools
+- Git, Intellij
+
+## 🌟 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongSoo0919&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongSoo0919&layout=compact)
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JongSoo0919)
+
+## 🤝 Connect with Me
+
+- [Notion](https://bit.ly/3NIjS8I)
+
