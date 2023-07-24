@@ -1,5 +1,4 @@
-# Hello, I'm [Kim JongSoo](https://github.com/JongSoo0919) 👋
-Welcome to My GiuHub! 😄
+# <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Welcome%20To%20My%20GitHub&fontSize=90" /> 😄
 
 ## 🔧 Technologies & Tools
 
@@ -15,7 +14,7 @@ Welcome to My GiuHub! 😄
 ### Etc
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Trello-0052cc?style=flat&logo=Trello&logoColor=white"/>
 
-## BOJ
+## 😎 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=easysprjs12)](https://solved.ac/easysprjs12)<br/>
 
 ## 🌟 GitHub Stats
