@@ -4,6 +4,7 @@ Welcome to My GiuHub! 😄
 ## 🔧 Technologies & Tools
 
 ### Front-end
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 - HTML, CSS, JavaScript
 
 ### Back-end
