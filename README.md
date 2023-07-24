@@ -1,5 +1,5 @@
 # Hello, I'm [Kim JongSoo](https://github.com/JongSoo0919) 👋
-## Welcome to My GiuHub! 😄
+Welcome to My GiuHub! 😄
 
 ## 🔧 Technologies & Tools
 
